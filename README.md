@@ -9,6 +9,6 @@
     🎮 Musique • Jeux • Animes • Code • Art
 </pre>
 <br>
-<img src="https://github.com/auroregql/images/blob/main/navi.gif" height="40" />
+<img src="https://github.com/auroregql/images/blob/main/navi.gif" height="60" />
 <br><br>
 </div>
